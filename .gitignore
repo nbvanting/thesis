@@ -134,3 +134,5 @@ token.txt
 kolding/
 strib/
 data/
+.Rproj.user
+*.Rproj
