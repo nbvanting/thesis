@@ -59,21 +59,24 @@ def create_datasets(dataframe, split, steps, lookback, horizon, batch_size, scal
         X_train, y_train,
         sequence_length=sequence_length,
         sampling_rate=steps,
-        batch_size=batch_size
+        batch_size=batch_size,
+        shuffle=False
     )
 
     dataset_val = timeseries_dataset_from_array(
         X_val, y_val,
         sequence_length=sequence_length,
         sampling_rate=steps,
-        batch_size=batch_size
+        batch_size=batch_size,
+        shuffle=False
     )    
 
     dataset_test = timeseries_dataset_from_array(
         X_test, y_test,
         sequence_length=sequence_length,
         sampling_rate=steps,
-        batch_size=batch_size
+        batch_size=batch_size,
+        shuffle=False
     )    
 
     return dataset_train, dataset_val, dataset_test
