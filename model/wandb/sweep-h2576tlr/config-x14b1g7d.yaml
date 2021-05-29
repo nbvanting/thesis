@@ -1,0 +1,22 @@
+wandb_version: 1
+
+activation_cnn:
+  value: relu
+activation_gru:
+  value: tanh
+batch_size:
+  value: 77
+cnn_layer:
+  value: 63
+dropout:
+  value: 0.94274516672692
+epoch:
+  value: 61
+gru_layer_1:
+  value: 130
+gru_layer_2:
+  value: 36
+learning_rate:
+  value: 0.0013824271376454635
+loss:
+  value: mse

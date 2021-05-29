@@ -1,0 +1,24 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.3",
+    "heartbeatAt": "2021-05-03T10:42:10.219102",
+    "startedAt": "2021-05-03T10:42:06.609005",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\nicol\\AppData\\Roaming\\jupyter\\runtime\\kernel-2290e32a-b1d3-4720-a2d5-0f0542d2db03.json"
+    ],
+    "state": "running",
+    "program": "model/WandB Sweep.ipynb",
+    "root": "C:/Users/nicol/Documents/SDU/thesis",
+    "git": {
+        "remote": "https://github.com/nbvanting/thesis.git",
+        "commit": "39d0f23b98632011202d2d7dae4261be41f61e70"
+    },
+    "email": "nicolai@vanting.com",
+    "host": "DESKTOP-LJP9NIB",
+    "username": "nicol",
+    "executable": "c:\\users\\nicol\\envs\\thesis\\scripts\\python.exe"
+}

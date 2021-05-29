@@ -1,0 +1,40 @@
+wandb_version: 1
+
+activation_cnn:
+  value: relu
+activation_gru:
+  value: tanh
+batch_size:
+  value: 175
+cnn_layer_size_1:
+  value: 156
+cnn_layer_size_2:
+  value: 73
+cnn_layer_size_3:
+  value: 126
+dataset:
+  value: strib
+dropout:
+  value: 0.21593520780215705
+epochs:
+  value: 25
+gru_layer_size_1:
+  value: 37
+gru_layer_size_2:
+  value: 218
+gru_layer_size_3:
+  value: 149
+learning_rate:
+  value: 0.03630478461924794
+lookback:
+  value: 744
+momentum:
+  value: 0.9679976376365662
+num_cnn_layers:
+  value: 2
+num_features:
+  value: 9
+num_gru_layers:
+  value: 2
+optimizer:
+  value: sgd

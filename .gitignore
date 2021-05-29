@@ -131,8 +131,12 @@ dmypy.json
 # Project Specific
 token.txt
 *.csv
+data/
 kolding/
 strib/
-data/
 .Rproj.user
 *.Rproj
+*.RData
+*.Rhistory
+pres/
+trefor_grid/

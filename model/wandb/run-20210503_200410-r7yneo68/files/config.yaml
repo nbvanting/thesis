@@ -1,0 +1,68 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.10.28
+    framework: tensorflow
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    python_version: 3.8.3
+    t:
+      1:
+      - 3
+      - 5
+      4: 3.8.3
+      5: 0.10.28
+      8:
+      - 1
+      - 3
+      - 5
+activation_cnn:
+  desc: null
+  value: relu
+activation_gru:
+  desc: null
+  value: tanh
+batch_size:
+  desc: null
+  value: 38
+cnn_layer_size_1:
+  desc: null
+  value: 225
+cnn_layer_size_2:
+  desc: null
+  value: 128
+dropout:
+  desc: null
+  value: 0.31963665946425573
+epochs:
+  desc: null
+  value: 50
+gru_layer_size_1:
+  desc: null
+  value: 104
+gru_layer_size_2:
+  desc: null
+  value: 238
+learning_rate:
+  desc: null
+  value: 0.053036436782389416
+lookback:
+  desc: null
+  value: 470
+momentum:
+  desc: null
+  value: 0.8
+num_cnn_layers:
+  desc: null
+  value: 1
+num_features:
+  desc: null
+  value: 9
+num_gru_layers:
+  desc: null
+  value: 2
+optimizer:
+  desc: null
+  value: adam
