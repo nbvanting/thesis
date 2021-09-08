@@ -140,3 +140,10 @@ strib/
 *.Rhistory
 pres/
 trefor_grid/
+
+# WandB Logs
+model/wandb/
+
+# exclude images
+middelfart_big_consumers_2019-2020.png
+kolding_big_consumers_2019-2020.png
