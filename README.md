@@ -25,4 +25,8 @@ The [model](https://github.com/nbvanting/thesis/tree/main/model) folder contains
     - Including the training history of the final model as a pkl
  - Hyperparameter Tuning Sweeps
  - Utility, Pipeline, and Helper functions are found in the [utils](https://github.com/nbvanting/thesis/tree/main/model/utils) folder  
-
+  
+The full-text PDF version of the thesis is available as well.  
+  
+Link to the literature review publication that is part of this thesis can be found [here](https://energyinformatics.springeropen.com/articles/10.1186/s42162-021-00148-6)
+  
